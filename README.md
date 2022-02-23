@@ -1,4 +1,4 @@
-# Making CromApp.JS feb-mar.2022
+# Making CromApp feb-mar.2022
 
 nomadcoder class.
 
